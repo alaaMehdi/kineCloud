@@ -24,4 +24,4 @@ Env. I have used these tools -> Vagrant
 -> Oracle VM VirtualBox 
 -> Workbench MySQL 
 -> JetBrains PhpStorm 
--> Laravel Framework 
+-> Laravel 5 Framework 
